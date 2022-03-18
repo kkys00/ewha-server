@@ -6,7 +6,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 
 def total(num1, num2):
     """
-    num1과 num2 더하기
+    num1과 num2 더하기 dma
     """
     return num1 + num2
 
